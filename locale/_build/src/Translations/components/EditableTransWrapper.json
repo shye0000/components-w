@@ -1,0 +1,26 @@
+{
+  "Edit translation": {
+    "origin": [
+      [
+        "src/Translations/components/EditableTransWrapper.js",
+        180
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/Translations/components/EditableTransWrapper.js",
+        190
+      ]
+    ]
+  },
+  "Save": {
+    "origin": [
+      [
+        "src/Translations/components/EditableTransWrapper.js",
+        196
+      ]
+    ]
+  }
+}

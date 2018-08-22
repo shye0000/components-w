@@ -1,0 +1,25 @@
+{
+  "presets": [
+    "babel-preset-env",
+    "react",
+    "stage-3",
+    "lingui-react"
+  ],
+  "plugins": [
+    "syntax-dynamic-import",
+    "transform-runtime",
+    "transform-class-properties",
+    "lodash",
+    "transform-object-assign",
+    "transform-object-rest-spread",
+    "transform-export-extensions",
+    "transform-class-properties",
+    "react-hot-loader/babel",
+    "transform-async-to-generator"
+  ],
+  "env": {
+    "test": {
+      "plugins": ["dynamic-import-node"]
+    }
+  }
+}

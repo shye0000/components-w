@@ -1,0 +1,26 @@
+{
+  "Total:": {
+    "origin": [
+      [
+        "src/Translations/components/TranslationMessagesTable.js",
+        20
+      ]
+    ]
+  },
+  "Language": {
+    "origin": [
+      [
+        "src/Translations/components/TranslationMessagesTable.js",
+        139
+      ]
+    ]
+  },
+  "Translations management": {
+    "origin": [
+      [
+        "src/Translations/components/TranslationMessagesTable.js",
+        157
+      ]
+    ]
+  }
+}

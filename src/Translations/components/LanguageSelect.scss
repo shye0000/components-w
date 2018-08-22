@@ -1,0 +1,20 @@
+.language-select {
+  white-space: nowrap;
+  position: relative;
+  display: inline-block;
+  .language-select-field {
+    vertical-align: middle;
+    .ant-select-selection {
+      padding-left: 20px;
+    }
+  }
+  .global-icon {
+    position: absolute;
+    left: 7px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: lightGrey;
+    vertical-align: middle;
+  }
+}

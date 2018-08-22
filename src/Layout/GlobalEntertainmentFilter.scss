@@ -1,0 +1,13 @@
+.global-entertainment-filter {
+  position: fixed;
+  z-index: 99999;
+  top: 45px;
+  left: 0;
+  width: 100%;
+  height: 260px;
+  background: #111;
+  display: none;
+  &.opened {
+    display: block;
+  }
+}

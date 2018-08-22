@@ -1,0 +1,34 @@
+{
+  "DESC": {
+    "origin": [
+      [
+        "src/SplitView/SplitViewComponent.js",
+        209
+      ],
+      [
+        "src/SplitView/SplitViewComponent.js",
+        251
+      ]
+    ]
+  },
+  "ASC": {
+    "origin": [
+      [
+        "src/SplitView/SplitViewComponent.js",
+        212
+      ],
+      [
+        "src/SplitView/SplitViewComponent.js",
+        254
+      ]
+    ]
+  },
+  "Please click an element in the list to show more details.": {
+    "origin": [
+      [
+        "src/SplitView/SplitViewComponent.js",
+        517
+      ]
+    ]
+  }
+}

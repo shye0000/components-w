@@ -1,0 +1,14 @@
+{
+  "None": "無し",
+  "DESC": "降下",
+  "ASC": "上昇",
+  "Please click an element in the list to show more details.": "詳細を表示するには、リスト内の要素をクリックしてください。",
+  "Edit translation": "編集翻訳",
+  "Cancel": "取消",
+  "Save": "保存",
+  "Search": "検索",
+  "undefined": "未定義",
+  "Total:": "合計",
+  "Language": "言語",
+  "Translations management": "翻訳管理"
+}
